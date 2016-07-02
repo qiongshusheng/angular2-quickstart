@@ -18,7 +18,7 @@
   "bugs": {
     "url": "https://github.com/qiongshusheng/angular2-quickstart/issues"
   },
-  "homepage": "https://github.com/qiongshusheng/angular2-quickstart#readme"，
+  "homepage": "https://github.com/qiongshusheng/angular2-quickstart#readme",
   "dependencies": {
     "angular2": "2.0.0-beta.3",
     "systemjs": "0.19.6",
